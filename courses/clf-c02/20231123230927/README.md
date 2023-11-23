@@ -1,4 +1,4 @@
-# Types: Infrastructure as Service
+# CC Types: Infrastructure as Service
 
 > Or IaaS
 
