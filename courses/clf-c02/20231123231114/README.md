@@ -1,4 +1,4 @@
-# Types: Platform as a Service
+# CC Types: Platform as a Service
 
 > Or PaaS
 
