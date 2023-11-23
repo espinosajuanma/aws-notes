@@ -1,4 +1,4 @@
-# Types: Software as a Service
+# CC Types: Software as a Service
 
 > Or SaaS
 
